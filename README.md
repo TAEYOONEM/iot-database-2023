@@ -1,6 +1,8 @@
 # iot-database-2023
 iot 개발자과정 데이터베이스 - MySQL
 
+![Mysql]
+
 # 1일차
 1. MySQL 학습
     - 데이터베이스 개요
@@ -31,3 +33,9 @@ iot 개발자과정 데이터베이스 - MySQL
         - 인덱스
 2. MySQL 활용
     - BookRentalShop 쿼리 연습
+
+# 5일차
+1. MySQL 활용
+    - BookRentalShop 쿼리 연습
+2. 코딩테스트
+    - BookRentalShop
